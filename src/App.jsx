@@ -11,7 +11,7 @@ function App() {
     <div className="app">
   
     <AllRoutes />
-      hello my self ishka gupta how are you all can we speak some time letter
+     
     </div>
   )
 }
