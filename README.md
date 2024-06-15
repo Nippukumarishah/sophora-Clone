@@ -48,7 +48,7 @@ Or you can directly explore our project through this link
 
 Following are the Screenshots for the reference
 Landing Page
-
+![alt text](<src/image/Screenshot (381).png>)
 
 Product Page
 
